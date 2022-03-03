@@ -1,0 +1,17 @@
+---
+title: "Session4"
+author: "Heeral"
+date: '2022-03-03'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Workshop 4
+
+## Package and datasets
+
+I want to load the dataset from
+[here]
